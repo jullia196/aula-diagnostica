@@ -28,3 +28,6 @@ if nota >= 7:
     print("Aprovado")
 else:
     print("Reprovado")
+
+    for i in range(1, 6):
+    print(i)
