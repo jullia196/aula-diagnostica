@@ -10,3 +10,9 @@ print("Soma:", n1 + n2)
 
 num = int(input("Digite um número: "))
 print("Dobro:", num * 2)
+
+num = int(input("Digite um número: "))
+if num % 2 == 0:
+    print("Par")
+else:
+    print("Ímpar")
