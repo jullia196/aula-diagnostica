@@ -22,3 +22,9 @@ if idade >= 18:
     print("Maior de idade")
 else:
     print("Menor de idade")
+
+    nota = float(input("Nota: "))
+if nota >= 7:
+    print("Aprovado")
+else:
+    print("Reprovado")
